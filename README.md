@@ -78,7 +78,15 @@ Missing data in datasets can be seen as a well known issue for companies. Missin
 
 |Term| Descrition|
 |:------:|---------------:|
-| Test | Test 2 |
+|Building management systems| (BMS)	A computer based control system that is installed to regulate electrical and mechanical equipment such as power system, lightning and ventilation.|
+|Time series data|	Series of data points indexed in timely order.|
+|Imputation|	In statistics, imputation is the process of replacing missing data with replaced values|
+|Machine learning|	A broad research field within artificial intelligence, concerned with the development of algorithms and techniques that enable computers to learn.|
+|Neural network|	A series of algorithms that tries to recognize underlying relationships in a set of data through a process that copies the way the human brain operates.|
+|Scrum Retrospective|	A standard part of the Scrum framework. At the end of a sprint, the team reflects - independently of the content - on the team process, their way of working, and the relationships between them.|
+|Variance error|	Error variance usually indicates how much random fluctuation is expected within scores and often forms part of the denominator of test statistics|
+|Root mean squared error|	A widely used measure of the differences between values predicted by a model or estimator and observed values.|
+
 
 # 5 Communication
 ## 5.1 Presentations
