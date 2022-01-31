@@ -120,7 +120,7 @@ The internal presentations were done together with Jesús Martínez de Juan and 
 
 **Internal presentations:**  
 
-- [Internal presentation week 4](Presentations/Imputation internal presentation week 4 20-09-21.pdf)
+- [Internal presentation week 4](/Presentations/Imputation internal presentation week 4 20-09-21.pdf)
 - [Internal presentation week 6](/Presentations/Team%IMP%20-%20external%20presentation%20week6.pdf)
 
 
