@@ -128,7 +128,7 @@ Both the external presentations I prepared and presented. I have my speaker note
 
 **External presentations:**
 - [External presentation week 6](Presentations/Team%20IMP%20-%20external%20presentation%20week6.pdf)
-- [External presentation 08-11-21 Notes](Presentations/08-11-21%Ramon%External%presentation%IMP.pdf)
+- [External presentation 08-11-21 Notes](/Presentations/08-11-21%20Ramon%20External%20presentation%20IMP.pdf)
 - 
 
 
