@@ -12,7 +12,7 @@
   - [Portfolio Minor Applied Data Sciences](#portfolio-minor-applied-data-sciences)
   - [DataCamp Course](#datacamp-course)
   
-  - [Reflection and evaluation STARR-based](#reflection-and-evaluation)
+  - [Reflection and evaluation STARR-based](#reflection-and-evaluation-starr-based)
     - [Reflection on own contribution to the project](#reflection-on-own-contribution-to-the-project)
     - [Reflection on own learning objectives](#reflection-on-own-learning-objectives)
     - [Evaluation on te group project as a whole](#evaluation-on-the-group-project-as-a-whole)
