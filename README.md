@@ -8,7 +8,7 @@ Table of Contents
   - [Reflection and evaluation](#reflection-and-evaluation)
   - [Reflection on own contribution to the project](#reflection-on-own-contribution-to-the-project)
   - [Reflection on own learning objectives](#reflection-on-own-learning-objectives)
-  - [Subject #1: Research project](#subject-1-research-project)
+  - [**Subject #1:** Research project](#subject-1-research-project)
   - [**Subject #2:** Domain knowledge](#subject-2-domain-knowledge](#)
   - [**Subject #3:** Communication](#subject-3-communication)
   
