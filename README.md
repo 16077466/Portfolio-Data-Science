@@ -20,6 +20,8 @@
   - [**Subject #1:** Research project](#subject-1-research-project)
   - [**Subject #2:** Domain knowledge](#subject-2-domain-knowledge)
   - [**Subject #3:** Communication](#subject-3-communication)
+    - [Presentations](#)
+    - [Writing the paper](#writing-the-paper)
   
 # DataCamp Course
 * By my own mistake I had been learning Python through the datascience server with the inpro assignments. Therefore I do not have datacamp course completed.
@@ -129,7 +131,7 @@ Both the external presentations I prepared and presented. I have my speaker note
 **External presentations:**
 - [External presentation week 6](Presentations/Team%20IMP%20-%20external%20presentation%20week6.pdf)
 - [External presentation 08-11-21 Notes](/Presentations/08-11-21%20Ramon%20External%20presentation%20IMP.pdf)
--
+
 - [Final presentation open team IMP](/Presentations/Final_Imputation%20Project%20team%20open%20presentation.pdf)
   - [Final presentation open Ramon Notes](Presentations/Notes_Final_presentation_IMP_Ramon.pdf)
 
