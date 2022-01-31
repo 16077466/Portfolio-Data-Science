@@ -76,6 +76,10 @@ Missing data in datasets can be seen as a well known issue for companies. Missin
 
 ## 4.3 Explanation of terminology, Jargon and definitions
 
+|Term| Descrition|
+|:------:|---------------:|
+| Test | Test 2 |
+
 # 5 Communication
 ## 5.1 Presentations
 The internal presentations were done together with Jesús Martínez de Juan and sadly lost the presentation that was done on the 22-11-21 since we used the same file on Canva for the later presentations and this overwrote the file before we thought of saving a separate one.
