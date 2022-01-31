@@ -4,10 +4,10 @@
 Table of Contents
 =================
 
-  * [1 DataCamp Course](#datacamp-course)
-  * [2 Reflection and evaluation](#reflection-and-evaluation)
-  * [2.1 Reflection on own contribution to the project](#reflection-on-own-contribution)
-  * [2.2 Reflection on own learning objectives](#)
+  * [DataCamp Course](#datacamp-course)
+  * [Reflection and evaluation](#reflection-and-evaluation)
+  * [Reflection on own contribution to the project](#reflection-on-own-contribution)
+  * [Reflection on own learning objectives](#)
   * [](#)
   * [](#)
   * [](#)
