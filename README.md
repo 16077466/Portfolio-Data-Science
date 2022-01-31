@@ -1,10 +1,15 @@
-# Ramon van der Elst | 16077466
-* Herkansing Portfolio 
+# Portfolio Minor Applied Data Sciences  2e kans
+**Firstname** : Ramob  
+**Lastname** : van der Elst
+**Student number**: 16077466
+**Date**: 04 February 2022  
+**Project group** : IMPutation  
+
 
 Table of Contents
 =================
 
-  - [Portfolio Minor Applied Data Sciences](#portfolio-minor-applied-data-sciences)
+  - [Portfolio Minor Applied Data Sciences 2e kans](#portfolio-minor-applied-data-sciences-2e-kans)
   - [DataCamp Course](#datacamp-course)
   
   - [Reflection and evaluation STARR-based](#reflection-and-evaluation)
