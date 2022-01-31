@@ -149,7 +149,7 @@ The research paper has been written mainly by Julien van der Niet. Here I was th
 
 [Research paper PDF](https://github.com/16077466/Portfolio-Data-Science/blob/7515316d4b0968d8a263f0f5b2f48b7a5d09cb1b/Research%20Paper/Research%20paper%20Version%201-9-2022%20IMP.docx.pdf)
 
-[Research paper LaTeX]()
+[Research paper LaTeX](https://github.com/16077466/Portfolio-Data-Science/blob/e2f91f76a1a2790c8724c95c97f45e0a2e8b4d1a/Research%20Paper/IMP%20Final%20Research%20Paper%20LaTeX%20version%20(1).pdf)
 
 Researches like got researched and validated by me and written by Julien. After it was written I would make adjustments where needed: 
 
