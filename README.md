@@ -4,35 +4,35 @@
 Table of Contents
 =================
 
-  * [DataCamp Course](#datacamp-course)
-  * [Reflection and evaluation](#reflection-and-evaluation)
+  - [DataCamp Course](#datacamp-course)
+  - [Reflection and evaluation](#reflection-and-evaluation)
   * [Reflection on own contribution to the project](#reflection-on-own-contribution)
   * [Reflection on own learning objectives](#)
-  * [](#)
+  * [Subject #1: Research project](#subject-1-research-project)
   * [](#)
   * [](#)
   * [](#)
   * [](#)
 
-# 1 DataCamp Course
+# DataCamp Course
 * By my own mistake I had been learning Python through the datascience server with the inpro assignments. Therefore I do not have datacamp course completed.
 
-# 2 Reflection and evaluation
-## 2.1 Reflection on own contribution to the project
+# Reflection and evaluation
+## Reflection on own contribution to the project
 * Situation: At the end of the project I had a hard time dealing with the way the project had gone thus far. Apart from me liking to work with project team, certain ways we handled the project did not sit right with me and can be put on me as well as the rest. For example there was a lot of research done on former studies about Building management system time series data imputation and different imputation methods known to work well for time series data. But in the end this literature did not get taken seriously and everyone did their own work without having research to back it up. This led to problems later on and became apparent during the writing on the research paper. 
 * Task: My task I had in this context was literature researcher and writing the research paper together with my project collogue Julien. Here we had to collect all the data and results from the imputation methods used and tested by our other group members and to make the research valid we had to link the methods and results to former literature/research. Since everything was done without the backed-up research before hand, this caused for a lot of extra work going through dozens of researches and eventually taking two whole weeks to validate all research done.
 * Action: How I handled this situation was by extensively going through my researches found earlier in the project and going online finding new valid research. There was no time and point staying stuck in the fact that the methods were not handled correct by the project members and me so I did what I had to do at that given time and that was put a lot of overwork in to make sure the research paper had all the research it needed.  
 * Result: In the end the extra work and over hours that were put in the research paper paid off very well. The research paper got finished on time and with sufficient and valid research to back up our findings and methods used during this project.
 * Reflection: The main thing I learned from this situation is that I could have been more assertive at the beginning of the project and said to my team “Listen, I am the one who does the literature research for former research done on this topic and field. It is okay if you do your own research too but make sure to note the research you found or want to use and link it to me for later use.” This would have saved all the extra work and trouble I had to go through. 
 
-## 2.2 Reflection on own learning objectives
+## Reflection on own learning objectives
 * Situation: When I started this minor Applied Data Science, I had certain goals for myself. Since I have no background in programming other than 2 basic courses I wanted to challenge myself and see how Applied Data science would go. The first in C++ for my first year of informatica and the second in Java for the first year of HBO-ICT here in The Hague. I did not want to learn more on the field of programming since I knew that is not what I want to do later for my work but I wanted to gain more insight and knowledge when it comes to the techniques used in data science. In the project I worked in this translated to knowing more about methods used for the imputation of missing data in small or big data sets. The coding behind this was not my goal but the techniques themselves, how they work, when they are used and how to for example optimize them properly. 
 * Task: My task in this was to learn more about the field of data science and again specifically for my project the imputation methods and the theory behind them. What I had to do was extensive research on former studies and research that have been done on the subject ‘Missing data imputation for building management system time series data.’. Apart from studying these researches I had to write about them in the research proposal,  research paper and my personal file where I saved all the researches I found with a small summary and what the research can be used for. (see 4.2 literature review) 
 * Action: What I did was the extensive research on former studies and research that have been done on the subject ‘Missing data imputation for building management system time series data.’. I had to validate these studies with my project team and problem owner Baldiri. Apart from studying these researches I had wrote about them in the research proposal,  research paper and my personal file where I saved all the researches I found with a small summary and what the research can be used for. 
 * Result: The results of my work were that I know a lot more about the subject and field than I thought I would but also that I confirmed my uninterest in programming. This might seem weird since that is a part of data science, but ahead of time I knew there would be project groups where not everyone would have to do the same work and there will be members of the team working on programming because it is their strong side, and for me my strong side and interests lie in data visualization, data analyzation and IT skills like data management.
 * Reflection: I am still very happy with what I did and what I have learned during this minor. I might not always be satisfied with the way it went or with parts I maybe should have dove into more. I still take away a lot from this minor even if it is the fact that I know I don’t want to pursue a future in Applied Data Science.
 
-## 2.3 Evaluation on the group project as a whole
+## Evaluation on the group project as a whole
 * Situation: The group project as a whole I am very satisfied with. From the good cooperation with my project team and project owner to the project I worked on. I am very fortunate to have worked on the IMPutation project as I thought from the start that this was the most interesting and fun project of them all. The method we used to work on this project made it a smooth and organized project at the start and got a little less smooth later on but that had other reasons that I do not know of. One of the key factors why this project was so fun to me is the problem owner Baldiri. He always brought a good atmosphere, instructive feedback and made sure the entire project team delivered week by week. I can honestly say that without Baldiri this project would have been a lot different for me.
 * Task: The task in this project was to write guidelines for data imputation and which methods work best for different data measurements, size of the gap that needs to be imputed and data classification. My task in this project was to do research, write about the research in the research proposal and paper. The paper with the guidelines eventually was going to be submitted to a conference called CLIMA. 
 * Action: What I did was the extensive research on former studies and research that have been done on the subject ‘Missing data imputation for building management system time series data.’. I had to validate these studies with my project team and problem owner Baldiri. Apart from studying these researches I had wrote about them in the research proposal,  research paper and my personal file where I saved all the researches I found with a small summary and what the research can be used for. 
@@ -41,7 +41,7 @@ Table of Contents
 
 [Back to table of contents](#table-of-contents)
 
-# 3 Research project
+# **Subject #1** Research project
 ## 3.1 Task definition
 Context: 
 This research project was done because the research group Energy In Transition (EiT) wanted to have research done on data imputation and the possibilities of guidelines on it. Specifically, they wanted guidelines for data imputation in building management system time series data, that would be applicable on a global scale.  The research group EiT had already done multiple researches when it comes to data imputation but never written guidelines for it thus, the research question: “Which imputation techniques should be applied for data imputation in building energy time series data?” was formulated.  	But why would this research be important you might ask. One reason is the fact that missing data can lead to bias when it comes to decision making in companies. If a lets say a company is trying to forecast/predict future trends based on data that is missing 10-20% of its data, can we say the forecast/prediction will be accurate enough to base a data-driven strategy on it? Companies in almost any case want to have complete datasets or as complete as it can be to have a high accuracy when it comes to working with the data, if that is forecasting, decision making or even selling data it always needs to be complete.
