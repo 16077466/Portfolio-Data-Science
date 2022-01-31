@@ -39,6 +39,8 @@ Table of Contents
 * Result: The result for the project as a whole is the research paper we wrote. It got submitted to CLIMA and at the moment of writing this we are waiting to hear if it got published or not. I would say the project was a success and I am very happy and satisfied with the result and my project team for achieving this together.
 * Reflection: I learned not only a lot more about the data science field but also about writing research papers, methods and techniques for data imputation. Next time I would dive more into programming just to learn more on the field where I lack skills. I know I don’t want to pursue a career in that field but I would still not be against learning more. 
 
+[Back to table of contents](#table-of-contents)
+
 # 3 Research project
 ## 3.1 Task definition
 Context: 
@@ -81,6 +83,8 @@ One side note that we have to make is that HD performed this well because this r
 ## 3.4 Planning
 At the start of the project we decided to structure of the 16 weeks we had ahead of us. First we decided to have sprints of 2-3 weeks, this way we had enough time to make progress every sprint and also keep a natural flow since we have an ongoing deadline every 2-3 weeks that supports a better outcome of the project. Next we had daily online or in person stand-up meetings where everyone got the opportunity to explain what they were going to work on for that day.  At the end of the sprint we did a short version of a retrospective where we reviewed the work that was done and gave everyone feedback on their work they did.  In this retrospective we also created the new sprint for the next 2-3 weeks and added ongoing issues as well as new issues. The issues got assigned to the person working on them in Jira. One disclaimer here is that Jira only allows 1 assignee and this can result in no evidence of a person having worked on- or helped to complete a task. However to prove we used the Scrum method well and update our Jira scrum board every sprint, screen shots have been taken of the sprint issues and can be seen in figures 2-7.
 
+[Back to table of contents](#table-of-contents)
+
 # 4 Domain Knowledge
 ## 4.1 Introduction to the subject field
 Missing data in datasets can be seen as a well known issue for companies. Missing data can lead to many problems such as creating bias for decision making, misleading forecasts if incomplete data has been used and much more. Therefore, missing data need to be imputed with values that are reasonable given the context. Data imputation is a big topic where researches have been done for a longer time now. But still to this day there is a lot more that can be done when it comes to learning more about data imputation, and in this specific case data imputation for time series data. Time series imputation is a challenging subject due to the existence of non-linear dependencies between current and past values. Simpler imputation methods, such as deletion of data rows containing missing values or filling gaps in data with the last observed value, add bias to the data and are not very efficient. There is never a situation where one imputation method works best for all cases and that is one of many reasons why data imputation can be a complicated issue.	Many methods are known to work well when imputing missing data in time series data, such as: Interpolation, K nearest neighbor (KNN), Last Observation Carried forward (LOCF), Linear regression types of neural networks such as a Recurrent Neural network. What is important about data imputation and the many methods is how you test/evaluate them to score their performance. Results can show that a certain method outperforms other methods by having the lowest variance error (VE) or Root mean squared error (RMSE). These are just 2 evaluation metrics that can be used to evaluate performance. There will be many challenges to face when imputing missing data such as understanding commonness and patterns of missing data, selecting the right imputation methods and how to evaluate performance of the selected imputation methods.
@@ -100,6 +104,7 @@ Missing data in datasets can be seen as a well known issue for companies. Missin
 |Variance error|	Error variance usually indicates how much random fluctuation is expected within scores and often forms part of the denominator of test statistics|
 |Root mean squared error|	A widely used measure of the differences between values predicted by a model or estimator and observed values.|
 
+[Back to table of contents](#table-of-contents)
 
 # 5 Communication
 ## 5.1 Presentations
