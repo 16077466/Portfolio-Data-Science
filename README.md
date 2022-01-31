@@ -120,7 +120,7 @@ The internal presentations were done together with Jesús Martínez de Juan and 
 
 **Internal presentations:**  
 
-- [Internal presentation week 6](/Presentations/Team%IMP%-%external%presentation%week6.pdf)
+- [Internal presentation week 6](/Presentations/Team%IMP%20-%20external%20presentation%20week6.pdf)
 
 
 Both the external presentations I prepared and presented. I have my speaker notes for the presentation on 08-10-21 which I presented. As for the one on 12-11-21 that one got prepared as a group and I presented together with Albert Corson and Adrien Lucbert.
