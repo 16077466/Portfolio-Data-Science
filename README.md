@@ -147,7 +147,9 @@ The research proposal was written by me in collaboration with Julien van der Nie
 Research paper
 The research paper has been written mainly by Julien van der Niet. Here I was the main help and made sure all added information was confirmed, supported by literature research, correct grammar and written inline with what CLIMA conference asked. The references to literature in the paper have been written by me and Julien as well as found by both me and Julien.
 
+[Research paper PDF](https://github.com/16077466/Portfolio-Data-Science/blob/7515316d4b0968d8a263f0f5b2f48b7a5d09cb1b/Research%20Paper/Research%20paper%20Version%201-9-2022%20IMP.docx.pdf)
 
+[Research paper LaTeX]()
 
 Researches like got researched and validated by me and written by Julien. After it was written I would make adjustments where needed: 
 
