@@ -1,6 +1,19 @@
 # Ramon van der Elst | 16077466
 * Herkansing Portfolio 
 
+Table of Contents
+=================
+
+  * [1 DataCamp Course](#datacamp-course)
+  * [2 Reflection and evaluation](#reflection-and-evaluation)
+  * [2.1 Reflection on own contribution to the project](#reflection-on-own-contribution)
+  * [2.2 Reflection on own learning objectives](#)
+  * [](#)
+  * [](#)
+  * [](#)
+  * [](#)
+  * [](#)
+
 # 1 DataCamp Course
 * By my own mistake I had been learning Python through the datascience server with the inpro assignments. Therefore I do not have datacamp course completed.
 
@@ -12,14 +25,14 @@
 * Result: In the end the extra work and over hours that were put in the research paper paid off very well. The research paper got finished on time and with sufficient and valid research to back up our findings and methods used during this project.
 * Reflection: The main thing I learned from this situation is that I could have been more assertive at the beginning of the project and said to my team “Listen, I am the one who does the literature research for former research done on this topic and field. It is okay if you do your own research too but make sure to note the research you found or want to use and link it to me for later use.” This would have saved all the extra work and trouble I had to go through. 
 
-## 2.3 Reflection on own learning objectives
+## 2.2 Reflection on own learning objectives
 * Situation: When I started this minor Applied Data Science, I had certain goals for myself. Since I have no background in programming other than 2 basic courses I wanted to challenge myself and see how Applied Data science would go. The first in C++ for my first year of informatica and the second in Java for the first year of HBO-ICT here in The Hague. I did not want to learn more on the field of programming since I knew that is not what I want to do later for my work but I wanted to gain more insight and knowledge when it comes to the techniques used in data science. In the project I worked in this translated to knowing more about methods used for the imputation of missing data in small or big data sets. The coding behind this was not my goal but the techniques themselves, how they work, when they are used and how to for example optimize them properly. 
 * Task: My task in this was to learn more about the field of data science and again specifically for my project the imputation methods and the theory behind them. What I had to do was extensive research on former studies and research that have been done on the subject ‘Missing data imputation for building management system time series data.’. Apart from studying these researches I had to write about them in the research proposal,  research paper and my personal file where I saved all the researches I found with a small summary and what the research can be used for. (see 4.2 literature review) 
 * Action: What I did was the extensive research on former studies and research that have been done on the subject ‘Missing data imputation for building management system time series data.’. I had to validate these studies with my project team and problem owner Baldiri. Apart from studying these researches I had wrote about them in the research proposal,  research paper and my personal file where I saved all the researches I found with a small summary and what the research can be used for. 
 * Result: The results of my work were that I know a lot more about the subject and field than I thought I would but also that I confirmed my uninterest in programming. This might seem weird since that is a part of data science, but ahead of time I knew there would be project groups where not everyone would have to do the same work and there will be members of the team working on programming because it is their strong side, and for me my strong side and interests lie in data visualization, data analyzation and IT skills like data management.
 * Reflection: I am still very happy with what I did and what I have learned during this minor. I might not always be satisfied with the way it went or with parts I maybe should have dove into more. I still take away a lot from this minor even if it is the fact that I know I don’t want to pursue a future in Applied Data Science.
 
-## 2.4 Evaluation on the group project as a whole
+## 2.3 Evaluation on the group project as a whole
 * Situation: The group project as a whole I am very satisfied with. From the good cooperation with my project team and project owner to the project I worked on. I am very fortunate to have worked on the IMPutation project as I thought from the start that this was the most interesting and fun project of them all. The method we used to work on this project made it a smooth and organized project at the start and got a little less smooth later on but that had other reasons that I do not know of. One of the key factors why this project was so fun to me is the problem owner Baldiri. He always brought a good atmosphere, instructive feedback and made sure the entire project team delivered week by week. I can honestly say that without Baldiri this project would have been a lot different for me.
 * Task: The task in this project was to write guidelines for data imputation and which methods work best for different data measurements, size of the gap that needs to be imputed and data classification. My task in this project was to do research, write about the research in the research proposal and paper. The paper with the guidelines eventually was going to be submitted to a conference called CLIMA. 
 * Action: What I did was the extensive research on former studies and research that have been done on the subject ‘Missing data imputation for building management system time series data.’. I had to validate these studies with my project team and problem owner Baldiri. Apart from studying these researches I had wrote about them in the research proposal,  research paper and my personal file where I saved all the researches I found with a small summary and what the research can be used for. 
