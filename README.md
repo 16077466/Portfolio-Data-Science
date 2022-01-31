@@ -118,6 +118,13 @@ Missing data in datasets can be seen as a well known issue for companies. Missin
 ## Presentations
 The internal presentations were done together with Jesús Martínez de Juan and sadly lost the presentation that was done on the 22-11-21 since we used the same file on Canva for the later presentations and this overwrote the file before we thought of saving a separate one.
 
+**Internal presentations:**  
+
+- [Internal presentation September 6](/Presentations/Internal%20Presentation%20week%202.pdf)
+- [Internal presentation November 8](Presentations/Internal_November_8.pdf)
+- [Internal presentation December 6](Presentations/Internal_Week_6.pdf)
+- [Internal presentation December 20](Presentations/Internal_December_20.pdf)
+
 Both the external presentations I prepared and presented. I have my speaker notes for the presentation on 08-10-21 which I presented. As for the one on 12-11-21 that one got prepared as a group and I presented together with Albert Corson and Adrien Lucbert.
 
 [Back to table of contents](#table-of-contents)
