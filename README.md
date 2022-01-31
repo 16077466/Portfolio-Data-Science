@@ -28,7 +28,7 @@
 
 # 3 Research project
 ## 3.1 Task definition
-* Context: 
+Context: 
 This research project was done because the research group Energy In Transition (EiT) wanted to have research done on data imputation and the possibilities of guidelines on it. Specifically, they wanted guidelines for data imputation in building management system time series data, that would be applicable on a global scale.  The research group EiT had already done multiple researches when it comes to data imputation but never written guidelines for it thus, the research question: “Which imputation techniques should be applied for data imputation in building energy time series data?” was formulated.  	But why would this research be important you might ask. One reason is the fact that missing data can lead to bias when it comes to decision making in companies. If a lets say a company is trying to forecast/predict future trends based on data that is missing 10-20% of its data, can we say the forecast/prediction will be accurate enough to base a data-driven strategy on it? Companies in almost any case want to have complete datasets or as complete as it can be to have a high accuracy when it comes to working with the data, if that is forecasting, decision making or even selling data it always needs to be complete.
 
 The main research question and the sub-questions:
@@ -47,4 +47,39 @@ After reviewing multiple imputation techniques we came to the conclusion that im
 -	What imputation techniques are best suited for which types of data?
 
 Same as the different gap sizes, types of data is an important factor when it comes to imputing missing data since different data types can decide which methods works best. The types of data we refer to are: Nominal, ratio and interval. The research we did already gave us the idea/conclusion that there wont be a single best imputation method for all types of data. Our results also confirmed this since the method Hot Deck and Recurrent Neural Network (RNN)shared the spot for best performance. Hot deck worked better for Nominal and ration data where RNN worked better for interval data.
+
+## 3.2 Evaluation
+What can be done for future research on this subject:
+
+•	Our research had a relatively large focus on evaluating  imputation with metrics based on the error. Therefore we would recommend a different focus for future research. This is to focus more on the impact of forecasting using imputed data. This could be done for weather data using machine learning algorithms to evaluate the prediction error of methods.
+
+•	Referring back to types of data we also came to the conclusion that the datasets we used only contained numerical data and no ordinal data. So to get a complete view on the performance of the methods tested there needs to be more research done about the different types of data with the methods we used. 
+
+•	We used a gated recurrent unit (GRU) recurrent neural network (RNN) that in the end had some limitations because of the way we set it up. Therefor we believe the full potential for this method has not been achieved yet and could be looked into more for future research since it already showed very promising results. To achieve this the RNN architecture should be changed to an encoder-decoder sequential based design. This should remove the bias of imputing its own imputed values.
+
+## 3.3 Conclusion
+Based on the research we did, the following conclusions can be made:
+-	Performance was evaluated using both root mean squared error (RMSE) and variance error (VE) as can be seen in figure 1. However, our RMSE did not perform as we expected. Since the point was to impute trends in data back and combining this with the VE score we got we can conclude that a good start has been made for this research. 
+
+-	Going to the goal of the research, the guidelines we wrote were based of off 4 methods we tested and evaluated. Those methods are Last Observation Carried Forward (LOCF), K nearest neighbor (KNN), Hot deck (HD) and Gated Recurrent Unit (GRU) Recurrent Neural Network (RNN). And for our guideline we made conclusions based on the method that performs best per data type: Nominal, Ratio and Interval as can be seen in table 1. We can conclude that HD performs the best for both nominal and ratio data and RNN performs the best on interval data, based on our findings. 
+
+One side note that we have to make is that HD performed this well because this research used a large amount of similar data units. When there would be a dataset with no similar data HD would not be useful and even not useable. 
+
+## 3.4 Planning
+At the start of the project we decided to structure of the 16 weeks we had ahead of us. First we decided to have sprints of 2-3 weeks, this way we had enough time to make progress every sprint and also keep a natural flow since we have an ongoing deadline every 2-3 weeks that supports a better outcome of the project. Next we had daily online or in person stand-up meetings where everyone got the opportunity to explain what they were going to work on for that day.  At the end of the sprint we did a short version of a retrospective where we reviewed the work that was done and gave everyone feedback on their work they did.  In this retrospective we also created the new sprint for the next 2-3 weeks and added ongoing issues as well as new issues. The issues got assigned to the person working on them in Jira. One disclaimer here is that Jira only allows 1 assignee and this can result in no evidence of a person having worked on- or helped to complete a task. However to prove we used the Scrum method well and update our Jira scrum board every sprint, screen shots have been taken of the sprint issues and can be seen in figures 2-7.
+
+# 4 Domain Knowledge
+## 4.1 Introduction to the subject field
+Missing data in datasets can be seen as a well known issue for companies. Missing data can lead to many problems such as creating bias for decision making, misleading forecasts if incomplete data has been used and much more. Therefore, missing data need to be imputed with values that are reasonable given the context. Data imputation is a big topic where researches have been done for a longer time now. But still to this day there is a lot more that can be done when it comes to learning more about data imputation, and in this specific case data imputation for time series data. Time series imputation is a challenging subject due to the existence of non-linear dependencies between current and past values. Simpler imputation methods, such as deletion of data rows containing missing values or filling gaps in data with the last observed value, add bias to the data and are not very efficient. There is never a situation where one imputation method works best for all cases and that is one of many reasons why data imputation can be a complicated issue.	Many methods are known to work well when imputing missing data in time series data, such as: Interpolation, K nearest neighbor (KNN), Last Observation Carried forward (LOCF), Linear regression types of neural networks such as a Recurrent Neural network. What is important about data imputation and the many methods is how you test/evaluate them to score their performance. Results can show that a certain method outperforms other methods by having the lowest variance error (VE) or Root mean squared error (RMSE). These are just 2 evaluation metrics that can be used to evaluate performance. There will be many challenges to face when imputing missing data such as understanding commonness and patterns of missing data, selecting the right imputation methods and how to evaluate performance of the selected imputation methods.
+
+## 4.2 literature review
+
+## 4.3 Explanation of terminology, Jargon and definitions
+
+# 5 Communication
+## 5.1 Presentations
+The internal presentations were done together with Jesús Martínez de Juan and sadly lost the presentation that was done on the 22-11-21 since we used the same file on Canva for the later presentations and this overwrote the file before we thought of saving a separate one.
+
+Both the external presentations I prepared and presented. I have my speaker notes for the presentation on 08-10-21 which I presented. As for the one on 12-11-21 that one got prepared as a group and I presented together with Albert Corson and Adrien Lucbert.
+
 
