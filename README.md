@@ -142,7 +142,7 @@ Both the external presentations I prepared and presented. I have my speaker note
 Research proposal
 The research proposal was written by me in collaboration with Julien van der Niet. 
 
-- [Research proposal Applied Data Science IMP](/Research%20Paper/Research%20proposal%20Applied%20Data%20Science%20project%20IMP%20.pdf)
+- [Research proposal Applied Data Science IMP](https://github.com/16077466/Portfolio-Data-Science/blob/15dfd6a9a4b17704e57e3393f31b512b13770176/Research%20Paper/Research%20proposal%20Applied%20Data%20Science%20project%20IMP.pdf)
 
 Research paper
 The research paper has been written mainly by Julien van der Niet. Here I was the main help and made sure all added information was confirmed, supported by literature research, correct grammar and written inline with what CLIMA conference asked. The references to literature in the paper have been written by me and Julien as well as found by both me and Julien.
