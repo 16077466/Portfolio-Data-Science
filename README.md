@@ -20,8 +20,8 @@
   - [**Subject #1:** Research project](#subject-1-research-project)
   - [**Subject #2:** Domain knowledge](#subject-2-domain-knowledge)
   - [**Subject #3:** Communication](#subject-3-communication)
-    - [Presentations](#)
-    - [Writing the paper](#writing-the-paper)
+    - [Presentations](#presentations)
+    - [Writing paper](#writing-paper)
   
 # DataCamp Course
 * By my own mistake I had been learning Python through the datascience server with the inpro assignments. Therefore I do not have datacamp course completed.
@@ -134,6 +134,27 @@ Both the external presentations I prepared and presented. I have my speaker note
 
 - [Final presentation open team IMP](/Presentations/Final_Imputation%20Project%20team%20open%20presentation.pdf)
   - [Final presentation open Ramon Notes](Presentations/Notes_Final_presentation_IMP_Ramon.pdf)
+
+
+## Writing paper
+
+Research proposal
+The research proposal was written by me in collaboration with Julien van der Niet. 
+
+
+
+Research paper
+The research paper has been written mainly by Julien van der Niet. Here I was the main help and made sure all added information was confirmed, supported by literature research, correct grammar and written inline with what CLIMA conference asked. The references to literature in the paper have been written by me and Julien as well as found by both me and Julien.
+
+
+
+Researches like got researched and validated by me and written by Julien. After it was written I would make adjustments where needed: 
+
+“HD can be outperformed by machine learning as seen in (Sree Dhevi, 2014) [1] but it is applicable when there are similar units available for study. The time series imputation performance of different types of RNN’s has been studied before in Che et al. (2018) [2]. The study concluded that when a Gated Recurrent Units (GRU) architecture is properly set up “it pulled significantly ahead of non-deep learning methods” “
+
+“Pazhoohesh et al. (2019) [3] found that for datasets where 10% to 30 % of the data is missing, the KNN algorithm does great compared to eight other methods. Poloczek et al. 2014 [4] analysed the use of KNN regression and LOCF and found that both did well for the study, but that KNN regression outperformed other methods.”
+
+
 
 
 [Back to table of contents](#table-of-contents)
