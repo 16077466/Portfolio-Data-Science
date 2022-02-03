@@ -19,6 +19,7 @@
   
   - [**Subject #1:** Research project](#subject-1-research-project)
   - [**Subject #2:** Domain knowledge](#subject-2-domain-knowledge)
+    - [Literature review](#literature-review)
   - [**Subject #3:** Communication](#subject-3-communication)
     - [Presentations](#presentations)
     - [Writing paper](#writing-paper)
@@ -102,7 +103,7 @@ Missing data in datasets can be seen as a well known issue for companies. Missin
 My work for literature review can be found in the latter link 
 [Here](https://github.com/16077466/Portfolio-Data-Science/blob/4c79a2c69dc6f24b3d03b91e1e69979c35fb56d4/Research%20Paper/Literature%20review%20Imputation%20done%20by%20Ramon.pdf)
 
-**Example of researches**
+**Examples of research**
 
 |Research topic| Description|
 |:------|:--------|
