@@ -102,7 +102,17 @@ Missing data in datasets can be seen as a well known issue for companies. Missin
 My work for literature review can be found in the latter link 
 [Here](https://github.com/16077466/Portfolio-Data-Science/blob/4c79a2c69dc6f24b3d03b91e1e69979c35fb56d4/Research%20Paper/Literature%20review%20Imputation%20done%20by%20Ramon.pdf)
 
+**Example of researches**
+
+|Research topic| Description|APA|
+|:------|:--------|:--------|
+- |Sensor building management system data imputation|	In this paper, a framework is developed to address these two gaps. First, a validation data generation module is developed based on pattern recognition to create a validation dataset to quantify the performance of data imputation methods. Second, a pool of data imputation methods is tested under the validation dataset to find an optimal single imputation method for each sensor, which is termed as an ensemble method.| 	Zhang, L. (2020). A Pattern-Recognition-Based Ensemble Data Imputation Framework for Sensors from Building Energy Systems. Sensors, 20(20), 5947. 
+https://doi.org/10.3390/s20205947 |
+
+
+
 **Research for global introduction**
+
  - Stef van Buuren's book Flexible Imputation of Missing Data, this was useful when starting out with imputations. https://stefvanbuuren.name/fimd/
  - 
 The literature review selected consists solely out of literature research that was studied and evaluated for referring to. More research has been done by me but not every research made it into the paper or the former list because of relavence or the research not being fully trustworthy.
