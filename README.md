@@ -101,7 +101,8 @@ Missing data in datasets can be seen as a well known issue for companies. Missin
 ## Literature review
 My work for literature review can be found in the latter link 
 [Here](https://github.com/16077466/Portfolio-Data-Science/blob/4c79a2c69dc6f24b3d03b91e1e69979c35fb56d4/Research%20Paper/Literature%20review%20Imputation%20done%20by%20Ramon.pdf)
-The literature review selected consists solely out of literature research that was studied and evaluated for reference and further use in this research.
+
+The literature review selected consists solely out of literature research that was studied and evaluated for referring to. More research has been done by me but not every research made it into the paper or the former list because of relavence or the research not being fully trustworthy.
 
 ## Explanation of terminology, Jargon and definitions
 
