@@ -100,7 +100,7 @@ Missing data in datasets can be seen as a well known issue for companies. Missin
 
 ## Literature review
 |What is this research for?| Summary/Citation| APA|
-|:------:|--------:|
+|:------:|:------:|--------:|
 |Variance error|	The research of RAO and SITTER (1995) shows that the choice of variance estimators in imputed data differs largely based on several factors. A very important consideration that needs to be made is the susceptibleness to outliers for variance calculation.|
 	RAO, J. N. K., & SITTER, R. R. (1995). Variance estimation under two-phase sampling with application to imputation for missing data. Biometrika, 82(2), 599–631. https://doi.org/10.1093/biomet/82.2.453 |
 
