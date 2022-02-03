@@ -109,14 +109,7 @@ My work for literature review can be found in the latter link
 |Sensor building management system data imputation|	In this paper, a framework is developed to address these two gaps. First, a validation data generation module is developed based on pattern recognition to create a validation dataset to quantify the performance of data imputation methods. Second, a pool of data imputation methods is tested under the validation dataset to find an optimal single imputation method for each sensor, which is termed as an ensemble method.|
 |Variance error|	The research of RAO and SITTER (1995) shows that the choice of variance estimators in imputed data differs largely based on several factors. A very important consideration that needs to be made is the susceptibleness to outliers for variance calculation.|
 	
-
-
-
-
-**Research for global introduction**
-
- - Stef van Buuren's book Flexible Imputation of Missing Data, this was useful when starting out with imputations. https://stefvanbuuren.name/fimd/
- - 
+	
 The literature review selected consists solely out of literature research that was studied and evaluated for referring to. More research has been done by me but not every research made it into the paper or the former list because of relavence or the research not being fully trustworthy.
 
 ## Explanation of terminology, Jargon and definitions
