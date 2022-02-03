@@ -107,7 +107,7 @@ The literature review selected consists solely out of literature research that w
 ## Explanation of terminology, Jargon and definitions
 
 |Term| Description|
-|:------:|--------:|
+|:------:|:--------:|
 |Building management systems| (BMS)	A computer based control system that is installed to regulate electrical and mechanical equipment such as power system, lightning and ventilation.|
 |Time series data|	Series of data points indexed in timely order.|
 |Imputation|	In statistics, imputation is the process of replacing missing data with replaced values|
