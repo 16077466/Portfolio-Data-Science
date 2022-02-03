@@ -104,11 +104,9 @@ My work for literature review can be found in the latter link
 
 **Example of researches**
 
-|Research topic| Description|APA|
+|Research topic| Description|
 |:------|:--------|:--------|
-- |Sensor building management system data imputation|	In this paper, a framework is developed to address these two gaps. First, a validation data generation module is developed based on pattern recognition to create a validation dataset to quantify the performance of data imputation methods. Second, a pool of data imputation methods is tested under the validation dataset to find an optimal single imputation method for each sensor, which is termed as an ensemble method.| 	Zhang, L. (2020). A Pattern-Recognition-Based Ensemble Data Imputation Framework for Sensors from Building Energy Systems. Sensors, 20(20), 5947. 
-https://doi.org/10.3390/s20205947 |
-
+|Sensor building management system data imputation|	In this paper, a framework is developed to address these two gaps. First, a validation data generation module is developed based on pattern recognition to create a validation dataset to quantify the performance of data imputation methods. Second, a pool of data imputation methods is tested under the validation dataset to find an optimal single imputation method for each sensor, which is termed as an ensemble method.|
 
 
 **Research for global introduction**
