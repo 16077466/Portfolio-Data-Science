@@ -116,6 +116,8 @@ My work for literature review can be found [Here](https://github.com/16077466/Po
 	
 The literature review selected consists solely out of literature research that was studied and evaluated for referring to. More research has been done by me but not every research made it into the paper or the former list because of relavence or the research not being fully trustworthy.
 
+[Back to table of contents](#table-of-contents)
+
 ## Terminology Jargon and Definitions
 
 |Term| Description|
