@@ -99,7 +99,7 @@ At the start of the project we decided to structure of the 16 weeks we had ahead
 
 ## 3.5 Python code / visualisation
 
-[Python code](#code.py)
+[Python code](#Code.ipynb)
 
 [Back to table of contents](#table-of-contents)
 
