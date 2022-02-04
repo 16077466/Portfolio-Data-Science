@@ -20,6 +20,7 @@
   - [**Subject #1:** Research project](#subject-1-research-project)
   - [**Subject #2:** Domain knowledge](#subject-2-domain-knowledge)
     - [Literature review](#literature-review)
+    - [Terminology](#explanation-of-terminology-,-Jargon-and-definitionsn)
   - [**Subject #3:** Communication](#subject-3-communication)
     - [Presentations](#presentations)
     - [Writing paper](#writing-paper)
