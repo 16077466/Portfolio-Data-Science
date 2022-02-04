@@ -18,6 +18,11 @@
     - [Evaluation on te group project as a whole](#evaluation-on-the-group-project-as-a-whole)
   
   - [**Subject #1:** Research project](#subject-1-research-project)
+    - [Context](#task-definition)
+    - [Evaluation](#evaluation)
+    - [Conclusion](#conclusion)
+    - [Planning](#planning)
+    - [Code/visual](#python-code-/-visualisation)
   - [**Subject #2:** Domain knowledge](#subject-2-domain-knowledge)
     - [Literature review](#literature-review)
     - [Terminology](#terminology-jargon-and-definitions)
@@ -77,7 +82,7 @@ After reviewing multiple imputation techniques we came to the conclusion that im
 
 Same as the different gap sizes, types of data is an important factor when it comes to imputing missing data since different data types can decide which methods works best. The types of data we refer to are: Nominal, ratio and interval. The research we did already gave us the idea/conclusion that there wont be a single best imputation method for all types of data. Our results also confirmed this since the method Hot Deck and Recurrent Neural Network (RNN)shared the spot for best performance. Hot deck worked better for Nominal and ration data where RNN worked better for interval data.
 
-## 3.2 Evaluation
+## Evaluation
 What can be done for future research on this subject:
 
 • Our research had a relatively large focus on evaluating  imputation with metrics based on the error. Therefore we would recommend a different focus for future research. This is to focus more on the impact of forecasting using imputed data. This could be done for weather data using machine learning algorithms to evaluate the prediction error of methods.
@@ -86,7 +91,7 @@ What can be done for future research on this subject:
 
 • We used a gated recurrent unit (GRU) recurrent neural network (RNN) that in the end had some limitations because of the way we set it up. Therefor we believe the full potential for this method has not been achieved yet and could be looked into more for future research since it already showed very promising results. To achieve this the RNN architecture should be changed to an encoder-decoder sequential based design. This should remove the bias of imputing its own imputed values.
 
-## 3.3 Conclusion
+## Conclusion
 Based on the research we did, the following conclusions can be made:
 - Performance was evaluated using both root mean squared error (RMSE) and variance error (VE) as can be seen in figure 1. However, our RMSE did not perform as we expected. Since the point was to impute trends in data back and combining this with the VE score we got we can conclude that a good start has been made for this research. 
 
@@ -94,14 +99,14 @@ Based on the research we did, the following conclusions can be made:
 
 One side note that we have to make is that HD performed this well because this research used a large amount of similar data units. When there would be a dataset with no similar data HD would not be useful and even not useable. 
 
-## 3.4 Planning
+## Planning
 At the start of the project we decided to structure of the 16 weeks we had ahead of us. First we decided to have sprints of 2-3 weeks, this way we had enough time to make progress every sprint and also keep a natural flow since we have an ongoing deadline every 2-3 weeks that supports a better outcome of the project. Next we had daily online or in person stand-up meetings where everyone got the opportunity to explain what they were going to work on for that day.  At the end of the sprint we did a short version of a retrospective where we reviewed the work that was done and gave everyone feedback on their work they did.  In this retrospective we also created the new sprint for the next 2-3 weeks and added ongoing issues as well as new issues. The issues got assigned to the person working on them in Jira. One disclaimer here is that Jira only allows 1 assignee and this can result in no evidence of a person having worked on- or helped to complete a task. However to prove we used the Scrum method well and update our Jira scrum board every sprint, screen shots have been taken of the sprint issues and can be seen in figures 2-7.
 
-## 3.5 Python code / visualisation
+## Python code / visualisation
 
-I worked on visualizing the results of the research per evaluation criteria and gap size. The script I wrote is most likely not great to look at but I want to show what I tried and worked on either way. I haven't worked with Python before so this was my first experience with it.
+I worked on visualizing the results of the research per evaluation criteria and gap size. The script I wrote is most likely not great to look at but I want to show what I tried and worked on either way. I haven't worked with Python before so this was my first experience with it:
 
-[Python code](https://github.com/16077466/Portfolio-Data-Science/blob/126d30623dd66906430b27c861b15af55fd041d5/Code.py)
+- [Python code](https://github.com/16077466/Portfolio-Data-Science/blob/126d30623dd66906430b27c861b15af55fd041d5/Code.py)
 - [Visual](https://github.com/16077466/Portfolio-Data-Science/blob/9691dafbd5408ec997a543477df5b10dc18e1c42/images/Own%20visuals%20IMP%20Ramon.png)
 
 In the end I was not fast enough with my coding and the deadlines were nearing. Because of the deadline and my lack in experience and I asked Julien to help.
