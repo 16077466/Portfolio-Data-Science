@@ -33,6 +33,10 @@
 # DataCamp Course
 * By my own mistake I had been learning Python through the datascience server with the inpro assignments. Therefore I do not have datacamp course completed.
 
+ - [Course example 1]()
+ - [Course example 2]()
+ - [Course example 3]()
+
 # Reflection and evaluation STARR-based
 ## Reflection on own contribution to the project
 * Situation: At the end of the project I had a hard time dealing with the way the project had gone thus far. Apart from me liking to work with project team, certain ways we handled the project did not sit right with me and can be put on me as well as the rest. For example there was a lot of research done on former studies about Building management system time series data imputation and different imputation methods known to work well for time series data. But in the end this literature did not get taken seriously and everyone did their own work without having research to back it up. This led to problems later on and became apparent during the writing on the research paper. 
