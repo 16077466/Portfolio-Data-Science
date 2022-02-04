@@ -61,36 +61,36 @@ The research/project I worked on for the last half year Imputation. For the proj
 To get this research started me and my projectteam formulated a main research question that was further divided in 3 subquestions. These questions were based on research done by mostly me and with help from the rest of the projectteam. The research done can be found in a latter part of the portfolio [here](#literature-review).
 
 The main research question and the sub-questions:
--	(Main) Which imputation techniques should be applied for data imputation in building management system time series data?
+- (Main) Which imputation techniques should be applied for data imputation in building management system time series data?
 
-Based on the task given by EiT we did our research and came to multiple versions of a research question. In the end we decided on the question above. The important part of the question was the focus on the eventual goal, the guidelines. The second important part was to narrow down which group this should be applied to thus the part “for data imputation in building management system time series data.” In the end the word “should” is important since it refers to the guidelines where we simply want to give a guide on methods that should be used in global terms when imputing missing.
+Based on the task given by EiT I did my research and came to multiple versions of a research question which I relayed to the projectteam during our weekly meetings. Here me and my projectteam discussed further versions or adjustments to the main question to finally have a well formulated main question. In the end we decided on the question above. The important part of the question was the focus on the eventual goal, the guidelines. The second important part was to narrow down which group this should be applied to thus the part “for data imputation in building management system time=series data.” In the end the word “should” is important since it refers to the guidelines where we simply want to give a guide on methods that should be used in global terms when imputing missing.
 
--	What imputation methods are known for imputing time series data?
+- What imputation methods are known for imputing time series data?
 
 This sub-question was chosen because we thought it would be important to start doing research about the known imputation methods that are out there as well as to get a better understanding on what we would have to try. When it comes to trying I imply imputing data and write guidelines about the methods.
 
--	Which imputation techniques are best suited for what gap sizes?
+- Which imputation techniques are best suited for what gap sizes?
 
 After reviewing multiple imputation techniques we came to the conclusion that imputing missing data, in time series data, is largely defined by the amount of data that needs to be imputed at a time or by the size the gap in the data. Certain methods work better with smaller gaps (e.g. 0 minutes to 60 minutes) where other methods work very well with larger gaps (e.g. 1 day to 5 days). For this reason we thought it would be essential to group the best methods for different gap sizes.
 
--	What imputation techniques are best suited for which types of data?
+- What imputation techniques are best suited for which types of data?
 
 Same as the different gap sizes, types of data is an important factor when it comes to imputing missing data since different data types can decide which methods works best. The types of data we refer to are: Nominal, ratio and interval. The research we did already gave us the idea/conclusion that there wont be a single best imputation method for all types of data. Our results also confirmed this since the method Hot Deck and Recurrent Neural Network (RNN)shared the spot for best performance. Hot deck worked better for Nominal and ration data where RNN worked better for interval data.
 
 ## 3.2 Evaluation
 What can be done for future research on this subject:
 
-•	Our research had a relatively large focus on evaluating  imputation with metrics based on the error. Therefore we would recommend a different focus for future research. This is to focus more on the impact of forecasting using imputed data. This could be done for weather data using machine learning algorithms to evaluate the prediction error of methods.
+• Our research had a relatively large focus on evaluating  imputation with metrics based on the error. Therefore we would recommend a different focus for future research. This is to focus more on the impact of forecasting using imputed data. This could be done for weather data using machine learning algorithms to evaluate the prediction error of methods.
 
-•	Referring back to types of data we also came to the conclusion that the datasets we used only contained numerical data and no ordinal data. So to get a complete view on the performance of the methods tested there needs to be more research done about the different types of data with the methods we used. 
+• Referring back to types of data we also came to the conclusion that the datasets we used only contained numerical data and no ordinal data. So to get a complete view on the performance of the methods tested there needs to be more research done about the different types of data with the methods we used. 
 
-•	We used a gated recurrent unit (GRU) recurrent neural network (RNN) that in the end had some limitations because of the way we set it up. Therefor we believe the full potential for this method has not been achieved yet and could be looked into more for future research since it already showed very promising results. To achieve this the RNN architecture should be changed to an encoder-decoder sequential based design. This should remove the bias of imputing its own imputed values.
+• We used a gated recurrent unit (GRU) recurrent neural network (RNN) that in the end had some limitations because of the way we set it up. Therefor we believe the full potential for this method has not been achieved yet and could be looked into more for future research since it already showed very promising results. To achieve this the RNN architecture should be changed to an encoder-decoder sequential based design. This should remove the bias of imputing its own imputed values.
 
 ## 3.3 Conclusion
 Based on the research we did, the following conclusions can be made:
--	Performance was evaluated using both root mean squared error (RMSE) and variance error (VE) as can be seen in figure 1. However, our RMSE did not perform as we expected. Since the point was to impute trends in data back and combining this with the VE score we got we can conclude that a good start has been made for this research. 
+- Performance was evaluated using both root mean squared error (RMSE) and variance error (VE) as can be seen in figure 1. However, our RMSE did not perform as we expected. Since the point was to impute trends in data back and combining this with the VE score we got we can conclude that a good start has been made for this research. 
 
--	Going to the goal of the research, the guidelines we wrote were based of off 4 methods we tested and evaluated. Those methods are Last Observation Carried Forward (LOCF), K nearest neighbor (KNN), Hot deck (HD) and Gated Recurrent Unit (GRU) Recurrent Neural Network (RNN). And for our guideline we made conclusions based on the method that performs best per data type: Nominal, Ratio and Interval as can be seen in table 1. We can conclude that HD performs the best for both nominal and ratio data and RNN performs the best on interval data, based on our findings. 
+- Going to the goal of the research, the guidelines we wrote were based of off 4 methods we tested and evaluated. Those methods are Last Observation Carried Forward (LOCF), K nearest neighbor (KNN), Hot deck (HD) and Gated Recurrent Unit (GRU) Recurrent Neural Network (RNN). And for our guideline we made conclusions based on the method that performs best per data type: Nominal, Ratio and Interval as can be seen in table 1. We can conclude that HD performs the best for both nominal and ratio data and RNN performs the best on interval data, based on our findings. 
 
 One side note that we have to make is that HD performed this well because this research used a large amount of similar data units. When there would be a dataset with no similar data HD would not be useful and even not useable. 
 
