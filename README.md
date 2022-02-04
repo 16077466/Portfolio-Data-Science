@@ -169,8 +169,8 @@ The internal presentations were done together with Jesús Martínez de Juan and 
 
 **Internal presentations:**  
 
-- [Internal presentation week 4](/Presentations/Imputation%20internal%20presentation%20week%204%2020-09-21.pdf)
-- [Internal presentation 12-11-21](Presentations/Imputation%20Project%20team%20Internal%20presentation%2012-11-21.pdf)
+- [Internal presentation week 4](https://github.com/16077466/Portfolio-Data-Science/blob/75775ddf6d127dfa586d3189eaaa760f14a90c5d/Presentations/Imputation%20internal%20presentation%20week%204%2020-09-21.pdf)
+- [Internal presentation 12-11-21](https://github.com/16077466/Portfolio-Data-Science/blob/75775ddf6d127dfa586d3189eaaa760f14a90c5d/Presentations/Imputation%20Project%20team%20Internal%20presentation%2012-11-21.pdf)
 
 
 Both the external presentations I prepared and presented. I have my speaker notes for the presentation on 08-10-21 which I presented. As for the one on 12-11-21 that one got prepared as a group and I presented together with Albert Corson and Adrien Lucbert.
