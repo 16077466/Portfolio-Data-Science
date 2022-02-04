@@ -33,9 +33,9 @@
 # DataCamp Course
 * By my own mistake I had been learning Python through the datascience server with the inpro assignments. Therefore I do not have datacamp course completed.
 
- - [Course example 1]()
- - [Course example 2]()
- - [Course example 3]()
+ - [Course example 1](https://github.com/16077466/Portfolio-Data-Science/blob/15ee9e735efced8c38e8c48927592faa36a4e008/images/1Course.PNG)
+ - [Course example 2](https://github.com/16077466/Portfolio-Data-Science/blob/15ee9e735efced8c38e8c48927592faa36a4e008/images/2Course.PNG)
+ - [Course example 3](https://github.com/16077466/Portfolio-Data-Science/blob/15ee9e735efced8c38e8c48927592faa36a4e008/images/3Course.PNG)
 
 # Reflection and evaluation STARR-based
 ## Reflection on own contribution to the project
