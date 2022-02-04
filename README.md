@@ -114,7 +114,7 @@ At the start of the project we decided to structure of the 16 weeks we had ahead
 
 [Jira screenshot](https://github.com/16077466/Portfolio-Data-Science/blob/4c64a92276ee51a16688d2143711fc44eadf2217/images/Sprint6Jira.PNG)
 
-
+[Jira link](https://imp-thuas.atlassian.net/jira/software/projects/IMP/boards/1/backlog)
 
 
 ## Python code and visualisation
