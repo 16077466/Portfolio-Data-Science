@@ -20,7 +20,7 @@
   - [**Subject #1:** Research project](#subject-1-research-project)
   - [**Subject #2:** Domain knowledge](#subject-2-domain-knowledge)
     - [Literature review](#literature-review)
-    - [Terminology](#explanation-of-terminology-,-Jargon-and-definitionsn)
+    - [Terminology](#terminology-jargon-and-definitions)
   - [**Subject #3:** Communication](#subject-3-communication)
     - [Presentations](#presentations)
     - [Writing paper](#writing-paper)
@@ -113,7 +113,7 @@ My work for literature review can be found [Here](https://github.com/16077466/Po
 	
 The literature review selected consists solely out of literature research that was studied and evaluated for referring to. More research has been done by me but not every research made it into the paper or the former list because of relavence or the research not being fully trustworthy.
 
-## Explanation of terminology, Jargon and definitions
+## Terminology Jargon and Definitions
 
 |Term| Description|
 |:------|:--------|
