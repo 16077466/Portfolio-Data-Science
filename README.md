@@ -112,7 +112,7 @@ One side note that we have to make is that HD performed this well because this r
 ## Planning
 At the start of the project we decided to structure of the 16 weeks we had ahead of us. First we decided to have sprints of 2-3 weeks, this way we had enough time to make progress every sprint and also keep a natural flow since we have an ongoing deadline every 2-3 weeks that supports a better outcome of the project. Next we had daily online or in person stand-up meetings where everyone got the opportunity to explain what they were going to work on for that day.  At the end of the sprint we did a short version of a retrospective where we reviewed the work that was done and gave everyone feedback on their work they did.  In this retrospective we also created the new sprint for the next 2-3 weeks and added ongoing issues as well as new issues. The issues got assigned to the person working on them in Jira. One disclaimer here is that Jira only allows 1 assignee and this can result in no evidence of a person having worked on- or helped to complete a task. 
 
-[Jira Sprint 6]()
+[Jira Sprint 6](https://github.com/16077466/Portfolio-Data-Science/blob/4c64a92276ee51a16688d2143711fc44eadf2217/images/Sprint6Jira.PNG)
 
 [Other sprints]()
 
