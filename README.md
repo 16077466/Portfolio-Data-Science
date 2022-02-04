@@ -99,8 +99,12 @@ At the start of the project we decided to structure of the 16 weeks we had ahead
 
 ## 3.5 Python code / visualisation
 
+I worked on visualizing the results of the research per evaluation criteria and gap size. The script I wrote is most likely not great to look at but I want to show what I tried and worked on either way. I haven't worked with Python before so this was my first experience with it.
+
 [Python code](https://github.com/16077466/Portfolio-Data-Science/blob/126d30623dd66906430b27c861b15af55fd041d5/Code.py)
-[Visual](Images/)
+- [Visual](https://github.com/16077466/Portfolio-Data-Science/blob/9691dafbd5408ec997a543477df5b10dc18e1c42/images/Own%20visuals%20IMP%20Ramon.png)
+
+In the end I was not fast enough with my coding and the deadlines were nearing. Because of the deadline and my lack in experience and I asked Julien to help.
 
 [Back to table of contents](#table-of-contents)
 
