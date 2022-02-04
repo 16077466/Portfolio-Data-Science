@@ -1,7 +1,7 @@
 # Portfolio Minor Applied Data Sciences  
 **Firstname** : Ramon  
 **Lastname** : van der Elst   
-**Student number**: 16077466   
+**Studentnumber**: 16077466   
 **Date**: 04 February 2022  
 **Project group** : IMPutation  
 
